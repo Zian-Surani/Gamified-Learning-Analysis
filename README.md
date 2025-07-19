@@ -64,7 +64,6 @@ This project explores the impact of a **gamified learning model** for teaching c
 | `Parsing_Study_Responses.pdf`                   | Combined summary of participant scores and survey answers       |
 | `Individual_Parsing_Test_Responses_Updated.pdf` | Detailed individual responses to 15 parsing questions           |
 | `Quizizz_InGame_Behaviour_Analysis.pdf`         | (Planned) Summary of Quizizz metrics for the experimental group |
-| `ResearchPaper.docx/.pdf`                       | Formal IEEE TALE submission-ready research paper                |
 | `README.md`                                     | Project documentation and overview (this file)                  |
 
 ---
